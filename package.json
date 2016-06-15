@@ -1,0 +1,25 @@
+{
+  "name": "email-cleanse",
+  "version": "1.0.0",
+  "description": "Generates a cleaned up email, accounting for provider nuances",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsonunger/email-cleanse.git"
+  },
+  "keywords": [
+    "email",
+    "cleanse",
+    "jsonunger",
+    "gmail"
+  ],
+  "author": "Jason Unger <jason@jsonunger.com> (https://github.com/jsonunger)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsonunger/email-cleanse/issues"
+  },
+  "homepage": "https://github.com/jsonunger/email-cleanse#readme"
+}
